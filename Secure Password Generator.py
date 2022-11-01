@@ -5,7 +5,7 @@ uppercase_letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 punctuation = '!#$%&*+-=?@^_'
 chars = ''
 
-counter = int(input('Какое количество паролей для герерации необходимо? '))
+counter = int(input('Какое количество паролей для генерации необходимо? '))
 length = int(input('Какая длина пароля? '))
 ques1 = input('Включать ли цифры 0123456789? (да или нет) ')
 ques2 = input('Включать ли прописные буквы ABCDEFGHIJKLMNOPQRSTUVWXYZ? (да или нет) ')
